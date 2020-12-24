@@ -1,0 +1,5 @@
+body{background-size:cover ;}
+.heading{width: 100%;font-size: 30px;box-shadow: 15px 15px 20px blueviolet;margin: 0px;}
+#NumberOfObjects,#status{font-size: 20px;color: blue;}
+.footer{bottom: 0;text-align: center;width: 100%;background-color: white;line-height: 2;position: fixed;color: rgb(0, 0, 0);}
+canvas{border: 10px dashed greenyellow;margin-top: 100px;}
